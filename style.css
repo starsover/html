@@ -17,7 +17,7 @@ body {
   margin: 0;
   font-weight: 900;
   letter-spacing: 20px;
-  color: #ffffff;
+  background: url(bg.jpg) center;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
